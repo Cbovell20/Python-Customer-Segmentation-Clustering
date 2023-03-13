@@ -20,27 +20,27 @@ This project analyzes customer data from a mall and segments customers based on 
 
 # Outline 
 - Introduction
-\n
+#
 - Overview of the project and its objectives
 - Brief description of the dataset used and its attributes
 - Data Exploration and Visualization
-\n
+# 
 - Summary statistics of the dataset
 - Data cleaning and preprocessing
 - Visualizing the distribution of each attribute
 - Visualizing the relationship between attributes
 - Identifying outliers and anomalies
 - Feature Scaling and Selection
-
+#
 - Scaling the features using StandardScaler
 - Clustering Algorithm and Model Training
-
+#
 - Brief introduction to K-means clustering algorithm
 - Choosing the optimal number of clusters using elbow method or silhouette score
 - Implementing K-means algorithm using Scikit-learn
 - Evaluating the model performance using inertia and silhouette score
 - Visualizing the clusters and interpreting the results
 - Conclusion and Future Work
-
+#
 - Summary of the project and its key findings
 - Potential improvements and future work for the project
