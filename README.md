@@ -19,30 +19,28 @@ This project analyzes customer data from a mall and segments customers based on 
 - Collecting more data and re-evaluating the model to improve its accuracy
 
 # Outline 
-Introduction
+- Introduction
 
-Overview of the project and its objectives
-Brief description of the dataset used and its attributes
-Data Exploration and Visualization
+- Overview of the project and its objectives
+- Brief description of the dataset used and its attributes
+- Data Exploration and Visualization
 
-Summary statistics of the dataset
-Data cleaning and preprocessing
-Visualizing the distribution of each attribute
-Visualizing the relationship between attributes
-Identifying outliers and anomalies
-Feature Scaling and Selection
+- Summary statistics of the dataset
+- Data cleaning and preprocessing
+- Visualizing the distribution of each attribute
+- Visualizing the relationship between attributes
+- Identifying outliers and anomalies
+- Feature Scaling and Selection
 
-Scaling the features using MinMaxScaler or StandardScaler
-Identifying relevant features using correlation matrix or PCA
-Clustering Algorithm and Model Training
+- Scaling the features using StandardScaler
+- Clustering Algorithm and Model Training
 
-Brief introduction to K-means clustering algorithm
-Choosing the optimal number of clusters using elbow method or silhouette score
-Implementing K-means algorithm using Scikit-learn
-Evaluating the model performance using inertia and silhouette score
-Visualizing the clusters and interpreting the results
-Conclusion and Future Work
+- Brief introduction to K-means clustering algorithm
+- Choosing the optimal number of clusters using elbow method or silhouette score
+- Implementing K-means algorithm using Scikit-learn
+- Evaluating the model performance using inertia and silhouette score
+- Visualizing the clusters and interpreting the results
+- Conclusion and Future Work
 
-Summary of the project and its key findings
-Limitations and challenges faced during the project
-Potential improvements and future work for the project
+- Summary of the project and its key findings
+- Potential improvements and future work for the project
