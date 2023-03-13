@@ -20,11 +20,11 @@ This project analyzes customer data from a mall and segments customers based on 
 
 # Outline 
 - Introduction
-
+\n
 - Overview of the project and its objectives
 - Brief description of the dataset used and its attributes
 - Data Exploration and Visualization
-
+\n
 - Summary statistics of the dataset
 - Data cleaning and preprocessing
 - Visualizing the distribution of each attribute
